@@ -1,7 +1,7 @@
 # Diya-Mohandas-N-T
 
 Language Used:
-I have used Python 3 to solve all the problems.
+I have used Python  to solve all the problems.
 
 Files:
 
