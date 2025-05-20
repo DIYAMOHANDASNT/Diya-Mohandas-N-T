@@ -11,7 +11,15 @@ Problem-3.py – Prints a conditional series of odd numbers depending on the inp
 Problem-4.py – Counts how many numbers in a list are divisible by 1 to 9.
 
 How to run these programs:
+
+Use Google Colab
+Go to "https://colab.research.google.com"
+Open new notebook and run the programs.
+
+OR 
+
 If You Are Using an IDE (like VS Code, PyCharm, or IDLE):
 Open your Python file in the IDE.
 Look for a “Run” button or right-click the file and select Run.
 The IDE will open a console and run your code there.
+
