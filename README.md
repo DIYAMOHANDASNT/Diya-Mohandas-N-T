@@ -12,7 +12,7 @@ Problem-4.py – Counts how many numbers in a list are divisible by 1 to 9.
 
 How to run these programs:
 
-Use Google Colab
+Use Google Colab - 
 Go to "https://colab.research.google.com"
 Open new notebook and run the programs.
 
