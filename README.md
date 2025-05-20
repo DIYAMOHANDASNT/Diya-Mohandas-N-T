@@ -11,8 +11,8 @@ Problem-3.py – Prints a conditional series of odd numbers depending on the inp
 Problem-4.py – Counts how many numbers in a list are divisible by 1 to 9.
 
 How to run these programs:
-You can run the programs using Python.
-Open your terminal or command prompt.
+Can run the programs using Python.
+Open the terminal or command prompt.
 
 python Problem-1.py
 python Problem-2.py
